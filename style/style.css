@@ -169,3 +169,36 @@ border-radius: 7px;
  .text-contain{
   padding:  37px 0px;
  }
+footer{
+background: rgb(33, 33, 33);
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 80px;
+padding: 30px 0px;
+}
+footer h3{
+  color: rgb(255, 255, 255);
+  font-size: 1.23rem;
+  font-weight: 700;
+  line-height: 36px;
+}
+small,p{
+  color: rgb(217, 219, 225);
+font-family: Manrope;
+font-size: 1rem;
+font-weight: 700;
+line-height: 24px;
+}
+.footer-container{
+  text-align: center;
+}
+.social-icon{
+  gap: 30px;
+}
+/* .social-icon i{
+background: rgb(255, 255, 255);
+opacity: 0.1;
+text-align: center;
+
+} */
